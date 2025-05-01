@@ -44,14 +44,6 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Maheswari-Panda&show_icons=true&theme=radical" alt="Maheswari's GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Maheswari-Panda&theme=radical" alt="GitHub Streak" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maheswari-Panda&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
