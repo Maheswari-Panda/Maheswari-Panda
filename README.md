@@ -10,25 +10,33 @@
 ### 🚀 About Me
 
 - 🎓 Final Year Computer Science Engineering Student at MSU Baroda  
-- 👩‍💻 Passionate about Web Development, Flutter, and Machine Learning  
+- 👩‍💻 Passionate about MERN Full Stack Development  
 - 🔭 Currently working on: **Personal Projects** & **Different Projects accross the internet**  
 - 🌱 Learning & Grwoing with Technologies : React, Node.js, Express, MongoDB , Angular, AI, ML
 - 👯 Looking to collaborate on Open Source and Team Projects  
 - 📫 How to reach me:  
-  [LinkedIn](https://www.linkedin.com/in/maheswari-panda/) • [Email](mailto:maheswaripanda20112004@gmail.com)
+  [LinkedIn](https://www.linkedin.com/in/maheswari-panda-155837219/) • [Email](mailto:maheswaripanda20112004@gmail.com)
 
 ---
 
 ### 🛠️ Languages & Tools
 
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+**🌟 Currently Exploring & Passionate About: MERN Stack**
+
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter)
+
+---
+
+**💼 Technologies I Have Worked With:**
+
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 
 ---
