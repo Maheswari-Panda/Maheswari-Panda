@@ -9,7 +9,7 @@
 
 ### 🚀 About Me
 
-- 🎓 Final Year Computer Science Engineering Student at MSU Baroda  
+- 🎓 I am a recent 2k25 Graduate in Computer Science & Engineering at MSU Baroda  
 - 👩‍💻 Passionate about MERN Full Stack Development  
 - 🔭 Currently working on: **Personal Projects** & **Different Projects accross the internet**  
 - 🌱 Learning & Grwoing with Technologies : React, Node.js, Express, MongoDB , Angular, AI, ML
